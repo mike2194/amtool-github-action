@@ -1,6 +1,6 @@
 name: 'AMTool GitHub Actions'
 description: 'Runs Alertmanager AMTool commands via GitHub Actions.'
-author: 'Wei Wu'
+author: 'mike2194'
 inputs:
   amtool_check_file:
     description: 'Path to file that AMTool will perform check on. Default to alertmanager.yaml'
