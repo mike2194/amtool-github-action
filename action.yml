@@ -1,4 +1,4 @@
-name: 'AMTool GitHub Actions'
+name: 'AMTool GitHub Actions - latest'
 description: 'Runs Alertmanager AMTool commands via GitHub Actions.'
 author: 'mike2194'
 inputs:
